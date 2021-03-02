@@ -16,3 +16,5 @@ LICENSE
 ^web/docs$
 ^pkgdown$
 codecov.yml
+^doc$
+^Meta$
